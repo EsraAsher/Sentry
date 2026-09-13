@@ -1,0 +1,6 @@
+{
+  "name": "bot-sentry",
+  "description": "Industrial process supervisor and telemetry console for Termux ARM64 hosts",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
